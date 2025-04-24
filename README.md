@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexandre
+### 👋 Hi, I'm Alexandre
 Front-End Developer specializing in modern web interfaces using React, Next.js, and TypeScript. Passionate about performance, user experience, and UI polish.
 
 🛠️ Tech I work with:
