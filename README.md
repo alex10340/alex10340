@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alexandre
+# Alexandre S.
 
 I'm a **Full-Stack Developer** who specializes in building fast, responsive, and scalable web applications using **Next.js, React, TypeScript, Supabase, and Tailwind CSS**.
 
