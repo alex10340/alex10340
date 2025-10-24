@@ -47,7 +47,7 @@ I'm a **Full-Stack Developer** who specializes in building fast, responsive, and
 
 ## Client Testimonial
 
-> ⭐⭐⭐⭐⭐ "Alexandre delivered the highest quality work with the fastest turnaround I’ve ever seen on Upwork... If you’re looking for a frontend developer who moves fast without compromising quality, Alexandre is the best I’ve worked with—hands down."  
+> "Alexandre delivered the highest quality work with the fastest turnaround I’ve ever seen on Upwork... If you’re looking for a frontend developer who moves fast without compromising quality, Alexandre is the best I’ve worked with—hands down."  
 > — Antony Passaro
 
 ---
